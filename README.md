@@ -2,6 +2,7 @@
 
 
 
+
 # Les commandes git
 
 ```bash
@@ -21,3 +22,4 @@ git branch --delete nom_de_la_branche_a_supprimer
 git add fichier_modifie
 git commit -m "message claire sur le commit"
 ```
+
